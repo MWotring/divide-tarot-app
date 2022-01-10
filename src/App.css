@@ -11,7 +11,7 @@
 }
 
 .App-header {
-  background-image: url("/Users/meganwotring/divide-tarot-app/public/images/tarotDivideHeader.jpg");
+  background-image: url("tarot-divide-header.jpg");
   background-position: center;
   height: 225px;
   display: flex;
