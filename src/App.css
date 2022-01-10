@@ -35,7 +35,13 @@
     transform: rotate(360deg);
   }
 }
+.card-wrapper{
+  border-style: double;
+  margin: 8px;
+}
+
 .grid-container {
+  justify-content: center;
   display: flex;
   flex-wrap: wrap;
 }
@@ -44,4 +50,7 @@ img {
   width: 230px;
   height: 300px;
   margin: 4px;
+}
+.title {
+  padding-bottom: 5px;
 }
