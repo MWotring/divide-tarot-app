@@ -2,25 +2,6 @@ import logo from './logo.svg';
 import { tarotCardJson } from './data/cardJson';
 import './App.css';
 
-// function getCardImages(tarotCardJson){
-//   let lenCards = tarotCardJson.length;
-//   for (i = 0; i< lenCards; i++) {
-//     tarotCardJson[i].uri
-
-//       return div class="grid-item">
-//       <img src="images/{uri}" title="The Star" alt="The Star"></img>
-//       </div>
-
-//   }
-// }
-
-function isCardMajorArcana(card){
-  if(card.tag == 'major'){return true;}
-  else {return false;}
-}
-
-
-
 function App() {
   let uriPrefix = "images/"
 
