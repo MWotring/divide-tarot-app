@@ -73,7 +73,7 @@ export const tarotCardJson = [
         "name": "The Animal",
         "tag": "major",
         "tarot-number": "11",
-         "uri": "temperance.jpg",
+         "uri": "strength.jpg",
      },{
         "date-completed": "2020-12-13s",
         "name": "The Inverted",
