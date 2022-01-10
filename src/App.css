@@ -1,11 +1,8 @@
 .App {
   text-align: center;
+  background-color: rgb(253, 251, 253);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -14,7 +11,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("/Users/meganwotring/divide-tarot-app/public/images/tarotDivideHeader.jpg");
+  background-position: center;
+  height: 225px;
   display: flex;
   flex-direction: column;
   align-items: center;
