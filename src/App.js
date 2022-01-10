@@ -29,13 +29,15 @@ function App() {
       <header className="App-header">
         <h1>Tarot From The Divide</h1>
       </header>
+      
       <h2>Major Arcana</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
-            return card.tag === "major" ? (<div> 
+            return card.tag === "major" ? (
+            <div className='card-wrapper'> 
               <img src={uriPrefix + card.uri} />
-              <div>{card.name}</div>
+              <div className='title'>{card['tarot-number']+" "+card.name}</div>
             </div>) : null
           }
 
@@ -46,9 +48,10 @@ function App() {
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
-            return card.tag === "fire" ? (<div> 
+            return card.tag === "fire" ? (
+            <div className='card-wrapper'>  
               <img src={uriPrefix + card.uri} />
-              <div>{card.name}</div>
+              <div className='title'>{card.name}</div>
             </div>) : null
           }
 
@@ -60,9 +63,10 @@ function App() {
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
-            return card.tag === "air" ? (<div> 
+            return card.tag === "air" ? (
+            <div className='card-wrapper'> 
               <img src={uriPrefix + card.uri} />
-              <div>{card.name}</div>
+              <div className='title'>{card.name}</div>
             </div>) : null
           }
 
@@ -74,9 +78,10 @@ function App() {
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
-            return card.tag === "water" ? (<div> 
+            return card.tag === "water" ? (
+            <div className='card-wrapper'>  
               <img src={uriPrefix + card.uri} />
-              <div>{card.name}</div>
+              <div className='title'>{card.name}</div>
             </div>) : null
           }
 
@@ -88,9 +93,10 @@ function App() {
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
-            return card.tag === "earth" ? (<div> 
+            return card.tag === "earth" ? (
+            <div className='card-wrapper'> 
               <img src={uriPrefix + card.uri} />
-              <div>{card.name}</div>
+              <div className='title'>{card.name}</div>
             </div>) : null
           }
 
