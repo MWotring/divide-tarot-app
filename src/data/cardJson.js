@@ -463,7 +463,7 @@ export const tarotCardJson = [
         "name": "Adult of Earth",
         "tag": "earth",
         "tarot-number": "13",
-         "uri": "earth-13-adult.jpg",
+         "uri": "earth-adult.jpg",
      },{
         "date-completed": "2021-09-08",
         "name": "Elders of Earth",
