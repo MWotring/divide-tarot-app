@@ -7,6 +7,15 @@
   font-family: Cinzel;
   src: url("fonts/Cinzel/Cinzel-VariableFont_wght.ttf");
 }
+@font-face {
+  font-family: Cinzel-SemiBold;
+  src: url("fonts/Cinzel/static/Cinzel-SemiBold.ttf");
+}
+@font-face {
+  font-family: Cinzel-Bold;
+  src: url("fonts/Cinzel/static/Cinzel-Bold.ttf");
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -49,7 +58,7 @@
 .card-wrapper{
   border-style: double;
   margin: 8px;
-  font-family: Cinzel;
+  font-family: SemiBold-Bold;
 }
 
 .grid-container {
