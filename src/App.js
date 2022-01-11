@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import { tarotCardJson } from './data/cardJson';
 import './App.css';
 
+
 function App() {
   let uriPrefix = "images/"
 
@@ -11,7 +12,7 @@ function App() {
         <h1>Tarot From The Divide</h1>
       </header>
       
-      <h2>Major Arcana</h2>
+      <h2 className='header'>Major Arcana</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
@@ -25,7 +26,7 @@ function App() {
           )
         }
       </div>
-      <h2>Suit of Fire</h2>
+      <h2 className='header'>Suit of Fire</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
@@ -40,7 +41,7 @@ function App() {
         }
       </div>
 
-      <h2>Suit of Air</h2>
+      <h2 className='header'>Suit of Air</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
@@ -55,7 +56,7 @@ function App() {
         }
       </div>
 
-      <h2>Suit of Water</h2>
+      <h2 className='header'>Suit of Water</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
@@ -70,7 +71,7 @@ function App() {
         }
       </div>
 
-      <h2>Suit of Earth</h2>
+      <h2 className='header'>Suit of Earth</h2>
       <div className='grid-container'>
         {
           tarotCardJson.map(card =>{
