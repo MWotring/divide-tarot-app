@@ -7,7 +7,7 @@ export const tarotCardJson = [
        "name": "The Fool",
        "tag": "major",
        "tarot-number": "00",
-        "uri": null,
+        "uri": "painting-dne-yet.jpg",
     },{
         "date-completed": "2021-03-07",
         "name": "The Will",
@@ -25,7 +25,7 @@ export const tarotCardJson = [
         "name": "The Multiplier",
         "tag": "major",
         "tarot-number": "03",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-01-17",
         "name": "The Authority",
@@ -43,7 +43,7 @@ export const tarotCardJson = [
         "name": "The Lover",
         "tag": "major",
         "tarot-number": "06",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-03-12",
         "name": "The Chariot",
@@ -55,7 +55,7 @@ export const tarotCardJson = [
         "name": "The Law",
         "tag": "major",
         "tarot-number": "08",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-04-18",
         "name": "The Hermit",
@@ -67,7 +67,7 @@ export const tarotCardJson = [
         "name": "The Wheel",
         "tag": "major",
         "tarot-number": "10",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-01-28",
         "name": "The Animal",
@@ -133,7 +133,7 @@ export const tarotCardJson = [
         "name": "The Whole",
         "tag": "major",
         "tarot-number": "21",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2020-11-17",
         "name": "Ace of Fire",
@@ -145,7 +145,7 @@ export const tarotCardJson = [
         "name": "Two of Fire",
         "tag": "fire",
         "tarot-number": "02",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-03-18",
         "name": "Three of Fire",
@@ -163,19 +163,19 @@ export const tarotCardJson = [
         "name": "Five of Fire",
         "tag": "fire",
         "tarot-number": "05",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Six of Fire",
         "tag": "fire",
         "tarot-number": "06",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Seven of Fire",
         "tag": "fire",
         "tarot-number": "07",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-03-15",
         "name": "Eight of Fire",
@@ -199,7 +199,7 @@ export const tarotCardJson = [
         "name": "Child of Fire",
         "tag": "fire",
         "tarot-number": "11",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-11-29",
         "name": "Youth of Fire",
@@ -223,7 +223,7 @@ export const tarotCardJson = [
         "name": "Ace of Air",
         "tag": "air",
         "tarot-number": "01",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-12-05",
         "name": "Two of Air",
@@ -235,7 +235,7 @@ export const tarotCardJson = [
         "name": "Three of Air",
         "tag": "air",
         "tarot-number": "03",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-07-12",
         "name": "Four of Air",
@@ -259,7 +259,7 @@ export const tarotCardJson = [
         "name": "Seven of Air",
         "tag": "air",
         "tarot-number": "07",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-01-07",
         "name": "Eight of Air",
@@ -277,7 +277,7 @@ export const tarotCardJson = [
         "name": "Ten of Air",
         "tag": "air",
         "tarot-number": "10",
-         "uri": "air-10.jpg",
+         "uri": "air-10.png",
      },{
         "date-completed": "2021-10-21",
         "name": "Child of Air",
@@ -325,13 +325,13 @@ export const tarotCardJson = [
         "name": "Four of Water",
         "tag": "water",
         "tarot-number": "04",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Five of Water",
         "tag": "water",
         "tarot-number": "05",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-11-13",
         "name": "Six of Water",
@@ -343,25 +343,25 @@ export const tarotCardJson = [
         "name": "Seven of Water",
         "tag": "water",
         "tarot-number": "07",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Eight of Water",
         "tag": "water",
         "tarot-number": "08",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Nine of Water",
         "tag": "water",
         "tarot-number": "09",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Ten of Water",
         "tag": "water",
         "tarot-number": "10",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2020-10-03",
         "name": "Child of Water",
@@ -391,7 +391,7 @@ export const tarotCardJson = [
         "name": "Ace of Earth",
         "tag": "earth",
         "tarot-number": "01",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-05-29",
         "name": "Two of Earth",
@@ -403,7 +403,7 @@ export const tarotCardJson = [
         "name": "Three of Earth",
         "tag": "earth",
         "tarot-number": "03",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-07-22",
         "name": "Four of Earth",
@@ -415,7 +415,7 @@ export const tarotCardJson = [
         "name": "Five of Earth",
         "tag": "earth",
         "tarot-number": "05",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-01-03",
         "name": "Six of Earth",
@@ -427,7 +427,7 @@ export const tarotCardJson = [
         "name": "Seven of Earth",
         "tag": "earth",
         "tarot-number": "07",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2021-04-22",
         "name": "Eight of Earth",
@@ -451,13 +451,13 @@ export const tarotCardJson = [
         "name": "Child of Earth",
         "tag": "earth",
         "tarot-number": "11",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": null,
         "name": "Youth of Earth",
         "tag": "earth",
         "tarot-number": "12",
-         "uri": null,
+         "uri": "painting-dne-yet.jpg",
      },{
         "date-completed": "2020-11-22",
         "name": "Adult of Earth",
