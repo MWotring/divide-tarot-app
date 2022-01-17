@@ -47,6 +47,7 @@ function App() {
       <Modal className="modal"
         isOpen={modalIsOpen}
         contentLabel="Tarot Card Detail Modal"
+        onRequestClose={() => setIsOpen(false)}
       >
         
         <button className="closeButton" onClick={() => setIsOpen(false)}>
