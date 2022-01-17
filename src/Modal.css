@@ -10,11 +10,11 @@
  
  
  .modal {
-    background: white;
-    color: rgb(14, 13, 13);
+    background: rgb(230, 224, 224);
+    color: rgb(8, 8, 8);
     border-radius: 16px;
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
-    height: 90%;
+    height: 96%;
     font-family: Cinzel;
     padding-top: 20px;
   }
@@ -22,19 +22,19 @@
   .modal-div {
     display: flex;
     flex-direction: row;
+    height: 96%;
   }
 
   .image-container {
-    justify-content: left;
-    width: 60%;
-    padding-right: 20px;
+    height: 100%;
   }
 
   .cardImage {
-    height: 830px;
+    height: 100%;
     width: auto;
     margin: 4px;
     padding: 5px;
+    
   }
 
   .closeButton {
@@ -45,20 +45,19 @@
     width: 30px;
   }
 
-  .cardDetailsContainer {
+  .card-details-container {
     flex-direction: column;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    width: 40%;
+    width: 35%;
     font-family: Playfair_Display;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 30px;
   }
 
   .modal-title {
     font-size: 40px;
     padding: 5px;
     padding-bottom: 20px;
-    width: 800px;
   }
 
   .modal-created-date{
