@@ -21,9 +21,7 @@ function App() {
   function openModal(card) { 
     setIsOpen(true)
     let imageChild = <div className="modal-div">
-      <div className="image-container">
-        <img className="cardImage" src={uriPrefix + card.uri}  alt={card.uri}/>
-      </div>
+      <img className="cardImage" src={uriPrefix + card.uri}  alt={card.uri}/>
       
       <div className="card-details-container">
         {getTitle(card)}
