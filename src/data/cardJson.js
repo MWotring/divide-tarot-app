@@ -24,7 +24,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "02",
-        "text": "The Waiting are seekers. They often believe they have insight the rest of us do not. Perhaps they are right. Maybe the aliens, or the End Times, or Enlightenment is right around the corner.",
+        "text": "The Waiting are seekers. They often believe they have insight the rest of us do not. Perhaps they are right.",
         "uri": "priestess.jpg",
      },{
         "dateCompleted": null,
@@ -40,7 +40,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "04",
-        "text": "The Authority offers order at the price of freedom. Submission is his highest virtue - for you.",
+        "text": "The Authority offers order at the price of freedom. Do not give him too much.",
         "uri": "emperor.jpg",
      },{
         "dateCompleted": "2021-05-13",
@@ -80,7 +80,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "09",
-        "text": "Retreating toward inner wisdom and readying the self for the end of a learning cycle.",
+        "text": "Retreating toward inner wisdom and readying the self for the end of a learning cycle and the start of the next.",
         "uri": "hermit.jpg",
      },{
         "dateCompleted": null,
@@ -96,7 +96,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "11",
-        "text": "Embrace your animal self in a collaborative and balanced partnership.",
+        "text": "Embrace your animal self in a collaborative and balanced partnership. Your reason tempers instinct while instinct informs reason.",
         "uri": "strength.jpg",
      },{
         "dateCompleted": "2020-12-13s",
@@ -104,7 +104,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "12",
-        "text": "Stuck. Time to reflect and gain new perspective; without it you will remain in liminal space.",
+        "text": "Immobilized. Time to reflect and gain new perspective; without it you will remain in this liminal space.",
         "uri": "inverted.jpg",
      },{
         "dateCompleted": "2021-06-02",
@@ -112,7 +112,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "13",
-        "text": "You're carrying things you no longer need. Don't worry about littering, the Refiner will bury them for you.",
+        "text": "You're carrying things you no longer need. Don't worry about littering, let go and the Refiner will bury them for you.",
         "uri": "death.jpg",
      },{
         "dateCompleted": "2021-02-21",
@@ -120,7 +120,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "14",
-        "text": "The focus is restoring or maintaining balance and harmony.",
+        "text": "Restore or maintain balance and harmony. Opposites can be complementary rather than adversary.",
         "uri": "temperance.jpg",
      },{
         "dateCompleted": "2020-10-10",
@@ -136,7 +136,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "16",
-        "text": "An unexpected realization changes everything. Your protective tower is also your prison. It is time to move beyond it, reshaping your beliefs.",
+        "text": "An unexpected realization changes everything. Your protective tower can be your prison. It is time to move beyond it, accepting new information or perspective.",
         "uri": "tower.jpg",
      },{
         "dateCompleted": "2020-09-19",
@@ -152,7 +152,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "18",
-        "text": "The moon lights paths into our unconscious depths as well as our fears. Be brave, know yourself, and harness your creative self.",
+        "text": "The moon lights paths into our unconscious depths as well as our fears. Be brave, know yourself, accept yourself, and harness your creative self.",
         "uri": "moon.jpg",
      },{
         "dateCompleted": "2021-04-24",
@@ -160,7 +160,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "19",
-        "text": "Joyful and connected, the sun is Life unbounded.",
+        "text": "Joyful and connected, the sun is Life unbounded and shared.",
         "uri": "sun.jpg",
      },{
         "dateCompleted": "2021-06-15",
@@ -256,7 +256,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "10",
-        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off and the outcome is not yet decided. Prepare for the worst but don’t forget the value of mutual aid.",
+        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst but don’t forget the value of mutual aid.",
         "uri": "fire-10.jpg",
      },{
         "dateCompleted": null,
@@ -280,7 +280,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "13",
-        "text": "The Adult of Fire brings new ideas into the world, making their marks as the neolithic painters did. They harness the human creative fire born of imagination and the desire to leave some of themselves behind.",
+        "text": "The Adult of Fire brings new ideas into the world, making their marks as the neolithic painters did. They harness the human creative fire of imagination and the desire to leave some of themselves behind.",
         "uri": "fire-13-adult.jpg",
      },{
         "dateCompleted": "2020-10-11",
@@ -336,7 +336,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "air",
         "tarot-number": "06",
-        "text": "The mind is whole, interconnected and aloft. Potential travel or the results of study and mental effort come to fruition.",
+        "text": "The mind interconnected and aloft. Potential travel or the results of study and mental effort come to fruition.",
         "uri": "air-6.jpg",
      },{
         "dateCompleted": null,
@@ -360,7 +360,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "air",
         "tarot-number": "09",
-        "text": "Holding fast to values and beliefs, despite challenging circumstances or collective disagreement.",
+        "text": "Holding fast to values and beliefs, despite challenging circumstances or societal pressure.",
         "uri": "air-9.jpg",
      },{
         "dateCompleted": "2021-06-19",
@@ -368,7 +368,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "air",
         "tarot-number": "10",
-        "text": "Ten white flags of surrender. Sometimes enough is enough and letting go is the only thing left to do.",
+        "text": "Ten white flags of surrender. Sometimes enough is enough and letting go is the only thing left to do. At least for now.",
         "uri": "air-10.jpg",
      },{
         "dateCompleted": "2021-10-21",
@@ -408,7 +408,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "water",
         "tarot-number": "01",
-        "text": "Unlimited emotional wells, empathy, joy, connection, belief in our collective possibilities.",
+        "text": "Unlimited emotional well, empathy, joy, connection, belief in our collective possibilities. Make the most of this brief emotional bandwidth.",
         "uri": "water-1.jpg",
      },{
         "dateCompleted": "2021-05-12",
@@ -416,7 +416,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "water",
         "tarot-number": "02",
-        "text": "Emotional connection. Be real, be vulnerable, see and be seen.",
+        "text": "Emotional connection. Be real, be vulnerable; see and be seen.",
         "uri": "water-2.jpg",
      },{
         "dateCompleted": "2022-01-03",
@@ -504,7 +504,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "water",
         "tarot-number": "13",
-        "text": "The adult of water is self aware, full of compassion for self and community.",
+        "text": "The adult of water is self aware, stable, and full of compassion for self and community.",
         "uri": "water-13-adult.jpg",
      },{
         "dateCompleted": "2021-08-21",
@@ -576,7 +576,7 @@ export const tarotCardJson = [
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "08",
-        "text": "A lifetime's work completed. Generational work.",
+        "text": "A lifetime's work completed. Generational change.",
         "uri": "earth-8.jpg",
      },{
         "dateCompleted": "2021-02-26",
@@ -592,7 +592,7 @@ export const tarotCardJson = [
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "10",
-        "text": "Destructive wealth that destroys anything lying in the way of further proft.",
+        "text": "Destructive wealth that values only profit. Short term profit endangers long term health.",
         "uri": "earth-10.jpg",
      },{
         "dateCompleted": null,
@@ -616,7 +616,7 @@ export const tarotCardJson = [
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "13",
-        "text": "The adult of earth is the planet's own self-generation. Tectonic plates are subsumed and fresh lava emerges. The eternal planet witnesses birth and death of life inumerable.",
+        "text": "The adult of earth is the planet's own self-generation. Tectonic plates are subsumed and fresh lava emerges. The eternal planet witnesses birth and death of life forms inumerable.",
         "uri": "earth-adult.jpg",
      },{
         "dateCompleted": "2021-09-08",
@@ -624,7 +624,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "earth",
         "tarot-number": "14",
-        "text": "The elders of earth care for the world and its interconnections. They work to return the living planet to health.",
+        "text": "The elders of earth care for the world and its inhabitants and interconnections. They work to return the living planet to health.",
         "uri": "elder-earth.jpg",
      }
 ]

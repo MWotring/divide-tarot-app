@@ -25,15 +25,13 @@
     height: 96%;
   }
 
-  .image-container {
-    height: 100%;
-  }
-
   .cardImage {
     height: 100%;
     width: auto;
     margin: 4px;
     padding: 5px;
+    padding-left: 20px;
+    margin-left: 15px;
     
   }
 
@@ -46,7 +44,6 @@
   }
 
   .card-details-container {
-    flex-direction: column;
     width: 35%;
     font-family: Playfair_Display;
     padding-left: 50px;
