@@ -515,13 +515,13 @@ export const tarotCardJson = [
         "text": "The elder of water has attained universal love and feels connection and compassion for all.",
         "uri": "elder-water.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-01-25",
         "name": "Ace of Earth",
         "size": "18x24",
         "tag": "earth",
         "tarot-number": "01",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Ace of Earth represents boundless physical possibility. Image heavily inspired by the statues found at Çatalhöyük and the idea that they represent agricultural matriarchs, gleaned from The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow.",
+        "uri": "ace-earth.jpg",
      },{
         "dateCompleted": "2021-05-29",
         "name": "Two of Earth",
