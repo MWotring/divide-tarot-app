@@ -13,7 +13,7 @@ export const tarotCardJson = [
     },{
         "dateCompleted": "2021-03-07",
         "name": "The Will",
-        "size": null,
+        "size": "22x28",
         "tag": "major",
         "tarot-number": "01",
         "text": "The magician creates the reality of their choosing through an act of will. They may bring others along. It is best to question what is perceived.",
@@ -459,13 +459,13 @@ export const tarotCardJson = [
         "text": "",
         "uri": "painting-dne-yet.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-02-23",
         "name": "Eight of Water",
-        "size": null,
+        "size": "22x28",
         "tag": "water",
         "tarot-number": "08",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Corruption. Rot from within poisoning the whole. The waters keep rising but those with institutional power have other concerns. Change only seem possible via a revolution of thought from below. There's a lot noise to get through.",
+        "uri": "water-8.jpg",
      },{
         "dateCompleted": null,
         "name": "Nine of Water",
