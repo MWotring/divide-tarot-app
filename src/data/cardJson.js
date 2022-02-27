@@ -445,7 +445,7 @@ export const tarotCardJson = [
      },{
         "dateCompleted": "2021-11-13",
         "name": "Six of Water",
-        "size": null,
+        "size": "18x24",
         "tag": "water",
         "tarot-number": "06",
         "text": "Pleasure and joy emerge after the emotional work of prior cards. Six hot springs pour from the earth bearing healing minerals and invite a soak that leaves our emotional selves open and relaxed.",
@@ -475,13 +475,13 @@ export const tarotCardJson = [
         "text": "",
         "uri": "painting-dne-yet.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-02-27",
         "name": "Ten of Water",
-        "size": null,
+        "size": "18x24",
         "tag": "water",
         "tarot-number": "10",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Collective Joy. Ephemeral experiences of wholeness and unity often felt at concerts and festivals. Remember this feeling and return to it when needed.",
+        "uri": "water-10.jpg",
      },{
         "dateCompleted": "2020-10-03",
         "name": "Child of Water",
