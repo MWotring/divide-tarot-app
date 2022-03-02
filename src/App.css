@@ -59,6 +59,7 @@
   border-style: double;
   margin: 8px;
   font-family: SemiBold-Bold;
+  cursor: pointer;
 }
 
 .grid-container {
