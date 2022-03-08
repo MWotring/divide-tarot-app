@@ -435,13 +435,13 @@ export const tarotCardJson = [
         "text": "",
         "uri": "painting-dne-yet.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-03-07",
         "name": "Five of Water",
         "size": "18x24",
         "tag": "water",
         "tarot-number": "05",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Processing trauma in order to heal. Uncovering old emotional wounds or facing fresh ones, forgiving where its warranted and letting go where possible.",
+        "uri": "water-5.jpg",
      },{
         "dateCompleted": "2021-11-13",
         "name": "Six of Water",
