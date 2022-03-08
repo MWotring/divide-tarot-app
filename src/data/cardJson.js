@@ -440,7 +440,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "water",
         "tarot-number": "05",
-        "text": "Processing trauma in order to heal. Uncovering old emotional wounds or facing fresh ones, forgiving where its warranted and letting go where possible.",
+        "text": "Processing trauma in order to heal. Uncovering old emotional wounds or facing fresh ones, forgiving where its warranted and letting go when possible.",
         "uri": "water-5.jpg",
      },{
         "dateCompleted": "2021-11-13",
