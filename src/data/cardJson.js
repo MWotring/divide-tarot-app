@@ -547,13 +547,13 @@ export const tarotCardJson = [
         "text": "The four is a comfortable place. Warm and established, perfect for growing at a comfortable pace but ultimately to be left behind when ready.",
         "uri": "earth-4.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-04-02",
         "name": "Five of Earth",
-        "size": null,
+        "size": "22x28",
         "tag": "earth",
         "tarot-number": "05",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Disruption. The stability of four is replaced with upheaval. Now is the time to seek help and provide it.",
+        "uri": "earth-5.jpg",
      },{
         "dateCompleted": "2021-01-03",
         "name": "Six of Earth",
