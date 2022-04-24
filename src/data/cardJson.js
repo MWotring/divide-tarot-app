@@ -595,13 +595,13 @@ export const tarotCardJson = [
         "text": "Destructive wealth that values only profit. Short term profit endangers long term health.",
         "uri": "earth-10.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-04-24",
         "name": "Child of Earth",
-        "size": null,
+        "size": "16x20",
         "tag": "earth",
         "tarot-number": "11",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The child of earth is at home. Still awed and excited to discover Earth's treasures but trusting and joyful.",
+        "uri": "earth-child.jpg",
      },{
         "dateCompleted": null,
         "name": "Youth of Earth",
