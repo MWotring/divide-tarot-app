@@ -427,13 +427,13 @@ export const tarotCardJson = [
         "text": "Community support spreads our joys and dilutes our pains.",
         "uri": "water-3.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-05-12",
         "name": "Four of Water",
-        "size": null,
+        "size": "18x24",
         "tag": "water",
         "tarot-number": "04",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The four is about a lack of motion. It's coping mechanisms that protect us when we need them but sometimes return when we don't. It's losing access to our ability to process emotion, to become vulnerable, feel empathy, or heal. Let the four be a stop, a pause when needed. Do not stay longer then you must.",
+        "uri": "water-4.jpg",
      },{
         "dateCompleted": "2022-03-07",
         "name": "Five of Water",
