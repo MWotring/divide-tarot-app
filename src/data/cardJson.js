@@ -563,7 +563,7 @@ export const tarotCardJson = [
         "text": "Returns from planned work are abundant. Enjoy your fruitfulness. Share your fruitfulness.",
         "uri": "earth-6.jpg",
      },{
-        "dateCompleted": "2020-04-29",
+        "dateCompleted": "2022-04-29",
         "name": "Seven of Earth",
         "size": "16x20",
         "tag": "earth",
