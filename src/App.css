@@ -55,6 +55,12 @@
   font-family: Cinzel;
 }
 
+.dropdownDiv{
+  display: flex;
+  justify-content: end;
+  padding: 10px;
+}
+
 .card-wrapper{
   border-style: double;
   margin: 8px;
