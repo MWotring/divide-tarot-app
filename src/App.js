@@ -1,9 +1,9 @@
-import React, {useState, useEffect} from "react";
+import React, {useState, useEffect, forceUpdate} from "react";
 import ReactModal from "react-modal";
-import { tarotCardJson } from './data/cardJson';
-import './App.css';
-import './Modal.css';
-import Modal from 'react-modal/lib/components/Modal';
+import { tarotCardJson } from "./data/cardJson";
+import "./App.css";
+import "./Modal.css";
+import Modal from "react-modal/lib/components/Modal";
 import { AiOutlineClose } from "react-icons/ai";
 
 
@@ -11,8 +11,8 @@ function App() {
   let uriPrefix = "images/"
   const [modalIsOpen, setIsOpen] = useState(false);
   const [modalChild, setModalChild] = useState(null);
-  const [filterValue, setValue] = useState('none');
-  const [sortedArray, setData] = useState([]);
+  const [filterValue, setValue] = useState("none");
+  const [sortedArray, setState] = useState([]);
 
   useEffect(() => {
   }, [])
@@ -20,27 +20,27 @@ function App() {
   const handleFilterChange = (event) => {
     setValue(event.target.value);
     let sortData = [...tarotCardJson]
-    if (filterValue === "dateCompleted") {
+    if (event.target.value === "recentDate") {
       let filteredData = sortData.filter(card => !!card["dateCompleted"])
       filteredData.sort((a, b) => {
-        setData(filteredData);
         return new Date(b["dateCompleted"]) - new Date(a["dateCompleted"]);
       })
+      setState(filteredData);
     }
-    if (filterValue === "recentDate") {
+    if (event.target.value === "dateCompleted") {
       let filteredData = sortData.filter(card => !!card["dateCompleted"])
       filteredData.sort((a, b) => {
-        setData(filteredData);
         return new Date(a["dateCompleted"]) - new Date(b["dateCompleted"]);
       })
+      setState(filteredData);
     }
   }
 
   function getTitle(card) {
-    if (card.tag === 'major') {
-      return <div className='modal-title'>{card['tarot-number']+" "+card.name}</div>
+    if (card.tag === "major") {
+      return <div className="modal-title">{card["tarot-number"]+" "+card.name}</div>
     }
-    else { return <div className='modal-title'>{card.name}</div>}
+    else { return <div className="modal-title">{card.name}</div>}
   }
 
   function openModal(card) { 
@@ -50,9 +50,9 @@ function App() {
       
       <div className="card-details-container">
         {getTitle(card)}
-        <div className='modal-created-date'>{"Date completed: "+card.dateCompleted}</div>
-        <div className='modal-dimension'>{"Dimensions in inches: "+card.size}</div>
-        <div className='modal-text'>{card.text}</div>
+        <div className="modal-created-date">{"Date completed: "+card.dateCompleted}</div>
+        <div className="modal-dimension">{"Dimensions in inches: "+card.size}</div>
+        <div className="modal-text">{card.text}</div>
 
         </div>
       </div>
@@ -90,31 +90,31 @@ function App() {
         {modalChild}
       </Modal>
       { filterValue === "none" &&
-        <h2 className='header'>Major Arcana</h2>
-      }
-      { filterValue === "none" &&
-        <div className='grid-container'>
+        <>
+        <h2 className="header">Major Arcana</h2>
+        <div className="grid-container">
           {
             tarotCardJson.map(card =>{
               return card.tag === "major" ? (
-              <div className='card-wrapper' onClick={()=> openModal(card)}>
+              <div className="card-wrapper" onClick={()=> openModal(card)}>
                 <img src={uriPrefix + card.uri}  alt={card.uri}/>
-                <div className='title'>{card['tarot-number']+" "+card.name}</div>
+                <div className="title">{card["tarot-number"]+" "+card.name}</div>
               </div>) : null
             })
           }
         </div>
+        </>
       }
       { (filterValue === "none" || filterValue === "fire") &&
         <>
-        <h2 className='header'>Suit of Fire</h2>
-        <div className='grid-container'>
+        <h2 className="header">Suit of Fire</h2>
+        <div className="grid-container">
           {
             tarotCardJson.map(card =>{
               return card.tag === "fire" ? (
-              <div className='card-wrapper' onClick={()=> openModal(card)}>
+              <div className="card-wrapper" onClick={()=> openModal(card)}>
                 <img src={uriPrefix + card.uri} alt={card.uri}/>
-                <div className='title'>{card.name}</div>
+                <div className="title">{card.name}</div>
               </div>) : null
             })
           }
@@ -123,14 +123,14 @@ function App() {
     }
     { (filterValue === "none" || filterValue === "air") &&
         <>
-        <h2 className='header'>Suit of Air</h2>
-        <div className='grid-container'>
+        <h2 className="header">Suit of Air</h2>
+        <div className="grid-container">
           {
             tarotCardJson.map(card =>{
               return card.tag === "air" ? (
-              <div className='card-wrapper' onClick={()=> openModal(card)}>
+              <div className="card-wrapper" onClick={()=> openModal(card)}>
                 <img src={uriPrefix + card.uri} alt={card.uri}/>
-                <div className='title'>{card.name}</div>
+                <div className="title">{card.name}</div>
               </div>) : null
             })
           }
@@ -139,14 +139,14 @@ function App() {
       }
       { (filterValue === "none" || filterValue === "water") &&
         <>
-        <h2 className='header'>Suit of Water</h2>
-        <div className='grid-container'>
+        <h2 className="header">Suit of Water</h2>
+        <div className="grid-container">
           {
             tarotCardJson.map(card =>{
               return card.tag === "water" ? (
-              <div className='card-wrapper' onClick={()=> openModal(card)}>
+              <div className="card-wrapper" onClick={()=> openModal(card)}>
                 <img src={uriPrefix + card.uri} alt={card.uri}/>
-                <div className='title'>{card.name}</div>
+                <div className="title">{card.name}</div>
               </div>) : null
             }
 
@@ -157,41 +157,28 @@ function App() {
     }
     { (filterValue === "none" || filterValue === "earth") &&
       <>
-      <h2 className='header'>Suit of Earth</h2>
-      <div className='grid-container'>
+      <h2 className="header">Suit of Earth</h2>
+      <div className="grid-container">
         {
           tarotCardJson.map(card =>{
             return card.tag === "earth" ? (
-            <div className='card-wrapper' onClick={()=> openModal(card)}>
+            <div className="card-wrapper" onClick={()=> openModal(card)}>
               <img src={uriPrefix + card.uri} alt={card.uri}/>
-              <div className='title'>{card.name}</div>
+              <div className="title">{card.name}</div>
             </div>) : null
           })
         }
       </div>
       </>
     }
-    { (filterValue === "dateCompleted" ) &&
-      <div className='grid-container'>
+    { (filterValue === "dateCompleted" || filterValue === "recentDate") &&
+      <div className="grid-container">
         {
           sortedArray.map(card =>{
             return (
-            <div className='card-wrapper' onClick={()=> openModal(card)}>
+            <div className="card-wrapper" onClick={()=> openModal(card)}>
               <img src={uriPrefix + card.uri} alt={card.uri}/>
-              <div className='title'>{card.name}</div>
-            </div>)
-          })
-        }
-      </div>
-    }
-    { (filterValue === "recentDate" ) &&
-      <div className='grid-container'>
-        {
-          sortedArray.map(card =>{
-            return (
-            <div className='card-wrapper' onClick={()=> openModal(card)}> 
-              <img src={uriPrefix + card.uri} alt={card.uri}/>
-              <div className='title'>{card.name}</div>
+              <div className="title">{card.name}</div>
             </div>)
           })
         }
