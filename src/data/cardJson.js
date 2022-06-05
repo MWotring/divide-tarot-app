@@ -67,13 +67,13 @@ export const tarotCardJson = [
         "text": "Successful action in the world.",
         "uri": "chariot.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-06-04",
         "name": "The Law",
-        "size": null,
+        "size": "22x28",
         "tag": "major",
         "tarot-number": "08",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Law is a human institution, prone to protecting property above people. The scales are not balanced. Injustice is the norm. Prison labor is legal slavery. The rollback of our bodily autonomy looms. So much work to do.",
+        "uri": "the-law.jpg",
      },{
         "dateCompleted": "2021-04-18",
         "name": "The Hermit",
@@ -99,7 +99,7 @@ export const tarotCardJson = [
         "text": "Embrace your animal self in a collaborative and balanced partnership. Your reason tempers instinct while instinct informs reason.",
         "uri": "strength.jpg",
      },{
-        "dateCompleted": "2020-12-13s",
+        "dateCompleted": "2020-12-13",
         "name": "The Inverted",
         "size": "22x28",
         "tag": "major",
