@@ -40,7 +40,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "04",
-        "text": "The Authority offers order at the price of freedom. Do not give him too much.",
+        "text": "The Authority offers order at the price of freedom. Do not give him too much. Do not forget your community when protecting your own interests. ",
         "uri": "emperor.jpg",
      },{
         "dateCompleted": "2021-05-13",

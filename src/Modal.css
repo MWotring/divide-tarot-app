@@ -73,3 +73,24 @@
     font-size: 18px;
     font-family: Playfair_Display;
 }
+
+@media screen and (max-width: 600px) {
+  .modal-div {
+    display: flex;
+    flex-direction: column;
+    height: 96%;
+  }
+  .cardImage {
+    height: auto;
+    width: 95%;
+    margin: 10px;
+    padding: 5px;
+  }
+  .card-details-container {
+    width: 95%;
+    font-family: Playfair_Display;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+}
