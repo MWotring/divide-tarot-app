@@ -24,7 +24,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "02",
-        "text": "The Waiting are seekers. They often believe they have insight the rest of us do not. Perhaps they are right.",
+        "text": "Some await extraterrestials, others gods or sons or the secret to completion. For a planet of such beauty, it's a wonder so many are looking for more than what is in front of us. Our paradise and our birthright, if only we could regain our ancestral human sense of belonging.",
         "uri": "priestess.jpg",
      },{
         "dateCompleted": null,
@@ -48,7 +48,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "05",
-        "text": "The Guide may be a teacher or one's inner voice.",
+        "text": "The Guide is a bridge or a waterway, of knowledge or tradition. Follow your path, it is time for seeking.",
         "uri": "hierophant.jpg",
      },{
         "dateCompleted": null,
@@ -80,7 +80,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "09",
-        "text": "Retreating toward inner wisdom and readying the self for the end of a learning cycle and the start of the next.",
+        "text": "The hermit retreats forward, their lived experience lighting the way down the path of inner wisdom and knowing themself.",
         "uri": "hermit.jpg",
      },{
         "dateCompleted": null,
@@ -96,7 +96,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "11",
-        "text": "Embrace your animal self in a collaborative and balanced partnership. Your reason tempers instinct while instinct informs reason.",
+        "text": "Embrace your animal self in a collaborative and balanced partnership. Your reason tempers instinct while intuition informs reason.",
         "uri": "strength.jpg",
      },{
         "dateCompleted": "2020-12-13",
@@ -104,7 +104,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "12",
-        "text": "Immobilized. Time to reflect and gain new perspective; without it you will remain in this liminal space.",
+        "text": "Immobilized. Unable to move on without either gaining understanding of another's perspective or admitting your own culpability. You control this, even if you do not want to admit it.",
         "uri": "inverted.jpg",
      },{
         "dateCompleted": "2021-06-02",
@@ -112,7 +112,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "13",
-        "text": "You're carrying things you no longer need. Don't worry about littering, let go and the Refiner will bury them for you.",
+        "text": "You're carrying things you no longer need. Don't worry about littering, let go and the Refiner will bury them for you. He's a skillful composter. The worms will help.",
         "uri": "death.jpg",
      },{
         "dateCompleted": "2021-02-21",
@@ -120,7 +120,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "14",
-        "text": "Restore or maintain balance and harmony. Opposites can be complementary rather than adversary.",
+        "text": "Restore or maintain your balance and harmony. Sometimes opposites can be complementary rather than adversary.",
         "uri": "temperance.jpg",
      },{
         "dateCompleted": "2020-10-10",
