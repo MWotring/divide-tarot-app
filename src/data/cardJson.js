@@ -27,13 +27,13 @@ export const tarotCardJson = [
         "text": "Some await extraterrestials, others gods or sons or the secret to completion. For a planet of such beauty, it's a wonder so many are looking for more than what is in front of us. Our paradise and our birthright, if only we could regain our ancestral human sense of belonging.",
         "uri": "priestess.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-06-24",
         "name": "The Multiplier",
-        "size": null,
+        "size": "22x28",
         "tag": "major",
         "tarot-number": "03",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Reproduction is bloody. Not reproducing is bloody. Forcing reproduction will be bloodier still. Fuck male supremacy. Women are not property; People are not property. Bodily autonomy is a human right.",
+        "uri": "multiplier.jpg",
      },{
         "dateCompleted": "2021-01-17",
         "name": "The Authority",
@@ -304,7 +304,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "air",
         "tarot-number": "02",
-        "text": "",
+        "text": "Choices. Contrasting ideas.",
         "uri": "air-2.jpg",
      },{
         "dateCompleted": null,
