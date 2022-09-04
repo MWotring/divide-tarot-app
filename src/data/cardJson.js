@@ -259,13 +259,13 @@ export const tarotCardJson = [
         "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst but don’t forget the value of mutual aid.",
         "uri": "fire-10.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-09-04",
         "name": "Child of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "11",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The child of fire is growth and potential not yet fulfilled. They are full of the joy of a thousand paths yet unexplored and the desire to become themselves.",
+        "uri": "fire-child.jpg",
      },{
         "dateCompleted": "2021-11-29",
         "name": "Youth of Fire",
@@ -600,7 +600,7 @@ export const tarotCardJson = [
         "size": "16x20",
         "tag": "earth",
         "tarot-number": "11",
-        "text": "The child of earth is at home. Still awed and excited to discover Earth's treasures but trusting and joyful.",
+        "text": "The child of earth is at home. They are trusting, grounded and at peace. When the time comes, they will know what to do.",
         "uri": "earth-child.jpg",
      },{
         "dateCompleted": null,
