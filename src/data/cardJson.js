@@ -467,13 +467,13 @@ export const tarotCardJson = [
         "text": "Corruption. Rot from within poisoning the whole. The waters keep rising but those with institutional power have other concerns. Change only seems possible via a revolution of thought from below. There's a lot noise to get through.",
         "uri": "water-8.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-10-21",
         "name": "Nine of Water",
-        "size": null,
+        "size": "22x28",
         "tag": "water",
         "tarot-number": "09",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Emotional isolation at a societal scale. The land is parched. Reaching out and connecting is the only way forward.",
+        "uri": "water-9.jpg",
      },{
         "dateCompleted": "2022-02-27",
         "name": "Ten of Water",
