@@ -603,13 +603,13 @@ export const tarotCardJson = [
         "text": "The child of earth is at home. They are trusting, grounded and at peace. When the time comes, they will know what to do.",
         "uri": "earth-child.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-10-22",
         "name": "Youth of Earth",
-        "size": null,
+        "size": "16x20",
         "tag": "earth",
         "tarot-number": "12",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The youth of earth is industrious and productive but remains in harmony with their world. You will know where they have been at work, improving, beautifying or just caring.",
+        "uri": "earth-youth.jpg",
      },{
         "dateCompleted": "2020-11-22",
         "name": "Adult of Earth",
