@@ -83,13 +83,13 @@ export const tarotCardJson = [
         "text": "The hermit retreats forward, their lived experience lighting the way down the path of inner wisdom and knowing themself.",
         "uri": "hermit.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-11-13",
         "name": "The Wheel",
         "size": "22x28",
         "tag": "major",
         "tarot-number": "10",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Wheel is often seen as the ups and downs of fate and chance. Ours is about the eternal tug of war between authoritarian and free societal paths. Hierarchy versus mutual aid and self creation. Progress made and reactionary pushback that will never disappear but can be overpowered. Moments poised for sudden shifts as leverages shift and change follows.",
+        "uri": "wheel.jpg",
      },{
         "dateCompleted": "2021-01-28",
         "name": "The Animal",
