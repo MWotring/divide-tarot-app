@@ -171,13 +171,13 @@ export const tarotCardJson = [
         "text": "The old self is shed. The New emerges, ready to complete the cycle of growth.",
         "uri": "rebirth.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-11-27",
         "name": "The Whole",
-        "size": null,
+        "size": "22x28",
         "tag": "major",
         "tarot-number": "21",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Earth is the whole of our universe. Our interconnections are infinite and precious. Those who block efforts to stop warming while they talk about saving the human race by moving to Mars with their friends are not our allies. They do not care about individual lives. They do not empathize.",
+        "uri": "universe.jpg",
      },{
         "dateCompleted": "2020-11-17",
         "name": "Ace of Fire",
