@@ -219,13 +219,13 @@ export const tarotCardJson = [
         "text": "",
         "uri": "painting-dne-yet.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-11-29",
         "name": "Six of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "06",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Victory. All that energy you gathered and paid out and maintained come back in a joyous riot of color. Enjoy your celebration. You've earned this.",
+        "uri": "fire-6.jpg",
      },{
         "dateCompleted": null,
         "name": "Seven of Fire",
