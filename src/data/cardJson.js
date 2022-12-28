@@ -256,7 +256,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "10",
-        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst but don’t forget the value of mutual aid.",
+        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst and don’t forget the value of mutual aid.",
         "uri": "fire-10.jpg",
      },{
         "dateCompleted": "2022-09-04",
