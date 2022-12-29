@@ -227,13 +227,13 @@ export const tarotCardJson = [
         "text": "Victory. All that energy you gathered and paid out and maintained come back in a joyous riot of color. Enjoy your celebration. You've earned this.",
         "uri": "fire-6.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-12-28",
         "name": "Seven of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "07",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Valour. Humanity reclaimed by force when there is no other option. When the time is right, PUSH. A new world may lie beyond.",
+        "uri": "fire-7.jpg",
      },{
         "dateCompleted": "2021-03-15",
         "name": "Eight of Fire",
@@ -256,7 +256,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "10",
-        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst but don’t forget the value of mutual aid.",
+        "text": "The societal divide is wider than ever before and the energy is raw and angry. Balance is lost, communication has been cut off but the outcome is not yet decided. Prepare for the worst and don’t forget the value of mutual aid.",
         "uri": "fire-10.jpg",
      },{
         "dateCompleted": "2022-09-04",
