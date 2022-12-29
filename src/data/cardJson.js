@@ -227,13 +227,13 @@ export const tarotCardJson = [
         "text": "Victory. All that energy you gathered and paid out and maintained come back in a joyous riot of color. Enjoy your celebration. You've earned this.",
         "uri": "fire-6.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-12-28",
         "name": "Seven of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "07",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Valour. Humanity reclaimed by force when there is no other option. When the time is right, PUSH. A new world may lie beyond.",
+        "uri": "fire-7.jpg",
      },{
         "dateCompleted": "2021-03-15",
         "name": "Eight of Fire",
