@@ -291,13 +291,13 @@ export const tarotCardJson = [
         "text": "The Elders hold a vast experience. At a time when new strategies are deeply needed, accessing our ancestral human knowledge and our most experienced guides may be the best way to move forward.",
         "uri": "fire-elder.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-01-01",
         "name": "Ace of Air",
-        "size": null,
+        "size": "18x24",
         "tag": "air",
         "tarot-number": "01",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Ace of Air is the font of thought, of ideas, of conceptualizations and the abstract. Use this opportunity to immerse yourself in study or research. Take on an intellectual challenge.",
+        "uri": "air-1.jpg",
      },{
         "dateCompleted": "2021-12-05",
         "name": "Two of Air",
