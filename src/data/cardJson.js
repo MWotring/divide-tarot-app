@@ -339,13 +339,13 @@ export const tarotCardJson = [
         "text": "The mind interconnected and aloft. Potential travel or the results of study and mental effort come to fruition.",
         "uri": "air-6.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2022-09-10",
         "name": "Seven of Air",
-        "size": null,
+        "size": "18x24",
         "tag": "air",
         "tarot-number": "07",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Misinformation, disinformation. Manipulation via emotion and reframing of fact, or completely making up new 'facts'. Are you being manipulated? Learn about logical fallacies and ask yourself what motivates the source of this information. How badly do you want it to be true? Are you fooling yourself?",
+        "uri": "air-7.jpg",
      },{
         "dateCompleted": "2021-01-07",
         "name": "Eight of Air",
