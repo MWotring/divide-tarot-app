@@ -307,13 +307,13 @@ export const tarotCardJson = [
         "text": "Choices. Contrasting ideas.",
         "uri": "air-2.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-01-16",
         "name": "Three of Air",
-        "size": null,
+        "size": "18x24",
         "tag": "air",
         "tarot-number": "03",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Learn from everyone around you. Teach what you know. Listen to other's experiences and perspectives. Put your collective heads against a challenging problem. You don't have to know everything. You do have to reach out, ask questions, and share what you do know.",
+        "uri": "air-3.jpg",
      },{
         "dateCompleted": "2021-07-12",
         "name": "Four of Air",
