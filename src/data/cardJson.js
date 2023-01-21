@@ -211,13 +211,13 @@ export const tarotCardJson = [
         "text": "Creation completed. The void is replaced by earth, water, air, and fire. Leaving the garden is inevitable. Prepare for expulsion.",
         "uri": "fire-4.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-01-21",
         "name": "Five of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "05",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "A fiery lake of resolve. Determination. Picking yourself up again because you have more to do and you won't be bested by this. This isn't where you end, where you are forgotten. This is how you become a fucking immortal.",
+        "uri": "fire-5.jpg",
      },{
         "dateCompleted": "2022-11-29",
         "name": "Six of Fire",
