@@ -51,13 +51,13 @@ export const tarotCardJson = [
         "text": "The Guide is a bridge or a waterway, of knowledge or tradition. Follow your path, it is time for seeking.",
         "uri": "hierophant.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-02-18",
         "name": "The Lover",
-        "size": null,
+        "size": "22x28",
         "tag": "major",
         "tarot-number": "06",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "The Lover is a meditation on choices, human relationships, our powers of self-determination and bodily autonomy, as well as an examination of gender roles. This arcana holds multitudes.",
+        "uri": "lover.jpg",
      },{
         "dateCompleted": "2021-03-12",
         "name": "The Chariot",
