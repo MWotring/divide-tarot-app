@@ -216,7 +216,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "fire",
         "tarot-number": "05",
-        "text": "A fiery lake of resolve. Determination. Picking yourself up again because you have more to do and you won't be bested by this. This isn't where you end, where you are forgotten. This is how you become a fucking immortal.",
+        "text": "A fiery lake of resolve. Determination. The physical sensation of strength and the warmth of self-knowledge, the fire in your chest that illuminates the path ahead. Picking yourself up again because you have more to do and you won't be bested by this. This isn't where you end, where you are forgotten. This is how you become a fucking immortal.",
         "uri": "fire-5.jpg",
      },{
         "dateCompleted": "2022-11-29",
@@ -305,7 +305,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "02",
         "text": "Choices. Contrasting ideas.",
-        "uri": "air-2.jpg",
+        "uri": "air-2.jpeg",
      },{
         "dateCompleted": "2023-01-16",
         "name": "Three of Air",
@@ -449,7 +449,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "06",
         "text": "Pleasure and joy emerge after the emotional work of prior cards. Six hot springs pour from the earth bearing healing minerals and invite a soak that leaves our emotional selves open and relaxed.",
-        "uri": "water-6.jpg",
+        "uri": "water-6.jpeg",
      },{
         "dateCompleted": null,
         "name": "Seven of Water",
