@@ -305,7 +305,7 @@ export const tarotCardJson = [
         "tag": "air",
         "tarot-number": "02",
         "text": "Choices. Contrasting ideas.",
-        "uri": "air-2.jpeg",
+        "uri": "air-2.jpg",
      },{
         "dateCompleted": "2023-01-16",
         "name": "Three of Air",
@@ -449,7 +449,7 @@ export const tarotCardJson = [
         "tag": "water",
         "tarot-number": "06",
         "text": "Pleasure and joy emerge after the emotional work of prior cards. Six hot springs pour from the earth bearing healing minerals and invite a soak that leaves our emotional selves open and relaxed.",
-        "uri": "water-6.jpeg",
+        "uri": "water-6.jpg",
      },{
         "dateCompleted": null,
         "name": "Seven of Water",
