@@ -521,7 +521,7 @@ export const tarotCardJson = [
         "tag": "earth",
         "tarot-number": "01",
         "text": "The Ace of Earth represents boundless physical possibility. Image heavily inspired by the statues found at Çatalhöyük and the idea that they represent agricultural matriarchs, gleaned from The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow.",
-        "uri": "ace-earth.jpg",
+        "uri": "earth-ace.jpg",
      },{
         "dateCompleted": "2021-05-29",
         "name": "Two of Earth",
