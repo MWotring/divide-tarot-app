@@ -3,13 +3,13 @@
 // add id field?
 export const tarotCardJson = [
    {
-       "dateCompleted": null,
+       "dateCompleted": "2023-03-12",
        "name": "The Fool",
-       "size": null,
+       "size": "22x28",
        "tag": "major",
        "tarot-number": "00",
-       "text": "",
-       "uri": "painting-dne-yet.jpg",
+       "text": "The Fool starts our journey. Without experience, they make leaps of intuition, fueled by hope and trust that it will all work out. ",
+       "uri": "fool.jpg",
     },{
         "dateCompleted": "2021-03-07",
         "name": "The Will",
