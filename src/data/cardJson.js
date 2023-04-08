@@ -531,13 +531,13 @@ export const tarotCardJson = [
         "text": "The two is about decisions. Is the grass greener on the other side?",
         "uri": "earth-2.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-03-20",
         "name": "Three of Earth",
-        "size": null,
+        "size": "18x24",
         "tag": "earth",
         "tarot-number": "03",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Creating a new vision of the worlds possible to us and sharing it with others. Transformation starts with what we can imagine together.",
+        "uri": "earth-3.jpg",
      },{
         "dateCompleted": "2021-07-22",
         "name": "Four of Earth",
