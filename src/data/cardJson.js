@@ -187,13 +187,13 @@ export const tarotCardJson = [
         "text": "Unlimited creative and generative energies.",
         "uri": "fire-1.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-0415",
         "name": "Two of Fire",
-        "size": null,
+        "size": "18x24",
         "tag": "fire",
         "tarot-number": "02",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Holding aloft the flame of hope, ambition, desire and creation. Thinking about the great deeds, the impossible accomplishments. Experiencing the hesitation of being weighed against what has already been done, offset by the determination to take your place.",
+        "uri": "fire-2.jpg",
      },{
         "dateCompleted": "2021-03-18",
         "name": "Three of Fire",
