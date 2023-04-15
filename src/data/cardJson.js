@@ -187,7 +187,7 @@ export const tarotCardJson = [
         "text": "Unlimited creative and generative energies.",
         "uri": "fire-1.jpg",
      },{
-        "dateCompleted": "2023-0415",
+        "dateCompleted": "2023-04-15",
         "name": "Two of Fire",
         "size": "18x24",
         "tag": "fire",
