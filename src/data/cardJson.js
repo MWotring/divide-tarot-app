@@ -424,7 +424,7 @@ export const tarotCardJson = [
         "size": "18x24",
         "tag": "water",
         "tarot-number": "03",
-        "text": "Community support spreads our joys and dilutes our pains.",
+        "text": "Sharing our journey with one another spreads our joys and dilutes our pains. We grow when we empathize and listen to each other's stories and perspectives.",
         "uri": "water-3.jpg",
      },{
         "dateCompleted": "2022-05-12",
@@ -451,13 +451,13 @@ export const tarotCardJson = [
         "text": "Pleasure and joy emerge after the emotional work of prior cards. Six hot springs pour from the earth bearing healing minerals and invite a soak that leaves our emotional selves open and relaxed.",
         "uri": "water-6.jpg",
      },{
-        "dateCompleted": null,
+        "dateCompleted": "2023-05-21",
         "name": "Seven of Water",
-        "size": null,
+        "size": "22x28",
         "tag": "water",
         "tarot-number": "07",
-        "text": "",
-        "uri": "painting-dne-yet.jpg",
+        "text": "Community care and action. Fear separates people and if there are no connection points, the fear can spread and grow out of hand. An open society must not allow the arsonists to thrive.",
+        "uri": "water-7.jpg",
      },{
         "dateCompleted": "2022-02-23",
         "name": "Eight of Water",
