@@ -3,20 +3,20 @@
 // add id field?
 export const tarotCardJson = [
    {
-       "dateCompleted": "2023-03-12",
+       "dateCompleted": "2023-07-16",
        "name": "The Fool",
        "size": "22x28",
        "tag": "major",
        "tarot-number": "00",
-       "text": "The Fool starts our journey. Without experience, they make leaps of intuition, fueled by hope and trust that it will all work out. ",
-       "uri": "fool.jpg",
+       "text": "The Fool starts our journey. Without experience, they make leaps of intuition, fueled by hope. They trust their abilities and the process of learning and getting back up again when they fall.  ",
+       "uri": "fool-2.jpg",
     },{
         "dateCompleted": "2021-03-07",
         "name": "The Will",
         "size": "22x28",
         "tag": "major",
         "tarot-number": "01",
-        "text": "The magician creates the reality of their choosing through an act of will. They may bring others along. It is best to question what is perceived.",
+        "text": "The magician creates the reality of their choosing through an act of will. They may bring others along. Question what the magician shows you, even when you are the magician.",
         "uri": "magus.jpg",
      },{
         "dateCompleted": "2020-12-26",
@@ -24,7 +24,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "02",
-        "text": "Some await extraterrestials, others gods or sons or the secret to completion. For a planet of such beauty, it's a wonder so many are looking for more than what is in front of us. Our paradise and our birthright, if only we could regain our ancestral human sense of belonging.",
+        "text": "Some await extraterrestials, others gods or sons or the secrets to completion. Earth is our paradise and our birthright, if only we could regain our ancestral human sense of belonging here, deeply a part of it.",
         "uri": "priestess.jpg",
      },{
         "dateCompleted": "2022-06-24",
@@ -32,7 +32,7 @@ export const tarotCardJson = [
         "size": "22x28",
         "tag": "major",
         "tarot-number": "03",
-        "text": "Reproduction is bloody. Not reproducing is bloody. Forcing reproduction will be bloodier still. Fuck male supremacy. Women are not property; People are not property. Bodily autonomy is a human right.",
+        "text": "Reproduction is bloody. Not reproducing is bloody. Forcing reproduction is bloodier still. Fuck male supremacy. Women are not property; People are not property. Bodily autonomy is a human right.",
         "uri": "multiplier.jpg",
      },{
         "dateCompleted": "2021-01-17",
